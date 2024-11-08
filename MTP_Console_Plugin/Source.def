@@ -1,0 +1,4 @@
+LIBRARY "MTP_Console_Plugin"
+
+EXPORTS
+TygerFrameworkPluginInitialize
